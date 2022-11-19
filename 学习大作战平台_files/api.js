@@ -33,7 +33,7 @@ let API_URL = {
 //    注册接口
     register: "/user/register",
 //    登录接口
-    login: "/user/login",
+    login: "http://114.116.245.61:4000/user/login",
     //提交
     submit_data: '/index/submit',
 //    获取列表
